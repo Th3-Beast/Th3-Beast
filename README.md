@@ -1,6 +1,8 @@
 # Hey there, I'm Vaughan 👋
 
 <div align="center">
+
+![Almighty Fenrir](https://imgur.com/a/E3x5ZQ0)
   
 ### Beginner Pythonista | Turning Caffeine into Code ☕️→💻
 
