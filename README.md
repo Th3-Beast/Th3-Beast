@@ -1,4 +1,4 @@
-# Hey there, I'm Vaughan 👋
+# <img src="https://readme-typing-svg.herokuapp.com?color=00D9FF&size=28&lines=Hey+There,+I'm+Vaughan+%F0%9F%91%8B&pause=999999&duration=1" />
 
 <div align="center">
 
