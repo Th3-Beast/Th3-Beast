@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Almighty Fenrir](https://imgur.com/a/E3x5ZQ0)
-  
-### Beginner Pythonista | Turning Caffeine into Code ☕️→💻
+![Almighty Fenrir](https://github.com/user-attachments/assets/73cae4e2-648d-413a-a95c-8a35fd1db3b7)
+
+### Creature Of Legends | Beginner Pythonista | Turning Caffeine into Code ☕️→💻
 
 *Building my portfolio one commit at a time while debugging before Stack Overflow can judge me*
 
