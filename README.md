@@ -93,16 +93,19 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-### 🔹 [Project Name](link-to-repo)
-**Description:** A brief description of what this project does and what you learned building it.
-- **Tech Stack:** Python, [other technologies]
-- **Status:** 🚧 In Progress / ✅ Completed
+### 🔹 [Band-Name-Generator](https://github.com/Th3-Beast/BeginnerProjects)
+**Description:** A basic project to reinforce the concepts of Print(), Input() and Variables. Combining user inputs together and outputting the result. 
+- **Tech Stack:** Python, PyCharm
+- **Status:** ✅ Completed
 
-### 🔹 [Another Project](link-to-repo)
+### 🔹 [Comming-Soon](https://github.com/Th3-Beast)
+<!--
+
 **Description:** What problem does this solve? What was challenging about it?
 - **Tech Stack:** Python, [other technologies]
 - **Status:** 🚧 In Progress / ✅ Completed
 
+-->
 > *More projects coming soon as I continue learning and building!*
 
 ---
