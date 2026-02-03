@@ -44,14 +44,19 @@ me.say_hi()
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+</br>
+</br>
 
-**Currently Learning:** Data Structures, Algorithms, Web Scraping, APIs
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,apple,notion,obsidian,md,pycharm,py,html,css,js,debian,stackoverflow,linkedin" />
+    <!--
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,arduino,raspberrypi,arch,astro,bash,debian,ai" />
+    You can find a list of icon here: https://github.com/tandpfun/skill-icons#readme
+    -->
+</a>
+
+</br>
+</br>
 
 </div>
 
@@ -59,15 +64,30 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Th3-Beast&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=Th3-Beast&theme=tokyonight&hide_border=true&fire=EB5454" alt="GitHub Streak" />
+  </a>
+  
+  </br>
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-333y.vercel.app/api?username=Th3-Beast&theme=tokyonight&hide_border=true&card_width=495">
+  </a>
+   
+  </br>
+  </br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3-Beast&layout=compact&theme=tokyonight&hide_border=true)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats-333y.vercel.app/api/top-langs/?username=Th3-Beast&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css,scss,nunjucks>
+  
+  </br>
+  </br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Th3-Beast&theme=tokyonight&hide_border=true)
 
-</div>
+</p>
 
 ---
 
