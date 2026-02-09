@@ -98,6 +98,11 @@ me.say_hi()
 - **Tech Stack:** Python, PyCharm
 - **Status:** ✅ Completed
 
+### 🔹 [Rock-Paper-Scissors](https://github.com/Th3-Beast/BeginnerProjects)
+**Description:** A more involved project to reinforce the concepts of User-Input, Variables and Logic using `if/elif/else`. Creating something fun, challenging and using ASCII art to make it more appealing. 
+- **Tech Stack:** Python, PyCharm
+- **Status:** ✅ Completed
+
 ### 🔹 [Comming-Soon](https://github.com/Th3-Beast)
 <!--
 
