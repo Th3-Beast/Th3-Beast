@@ -103,6 +103,11 @@ me.say_hi()
 - **Tech Stack:** Python, PyCharm
 - **Status:** ✅ Completed
 
+### 🔹 [Simple-Password-Generator](https://github.com/Th3-Beast/BeginnerProjects)
+**Description:** A simple password generator that takes 3 inputs from the user, amount of characters, amount of numbers and the amount of symbols that the user would like in the password. There is also a recommendation on the ideal password for proper security.  
+- **Tech Stack:** Python, PyCharm
+- **Status:** ✅ Completed
+
 ### 🔹 [Comming-Soon](https://github.com/Th3-Beast)
 <!--
 
@@ -118,10 +123,10 @@ me.say_hi()
 ## 📈 My Coding Journey
 
 ```
-[▓▓▓▓▓░░░░░░░░░░░░░░] 25% Complete
+[▓▓░░░░░░░░░░░░░░░░░] 10% Complete
 
 Current Level: Beginner with Ambition
-Achievement Unlocked: First "Hello World" ✓
+Achievement Unlocked: Password Generator ✓
 Next Milestone: First Pull Request to Open Source
 Boss Battle: Understanding Decorators (preparing...)
 ```
