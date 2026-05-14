@@ -4,7 +4,7 @@
 
 ![Almighty Fenrir](https://github.com/user-attachments/assets/73cae4e2-648d-413a-a95c-8a35fd1db3b7)
 
-### Creature Of Legends | Beginner Pythonista | Turning Caffeine into Code ☕️→💻
+### Creature Of Legends | Beginner Coder | Turning Caffeine into Code ☕️→💻
 
 *Building my portfolio one commit at a time while debugging before Stack Overflow can judge me*
 
@@ -21,10 +21,10 @@
 class BeginnerDeveloper:
     def __init__(self):
         self.name = "Vaughan"
-        self.role = "Aspiring Python Developer"
-        self.language_spoken = ["English", "Python (still learning)", "Sarcasm"]
+        self.role = "Aspiring Code Developer"
+        self.language_spoken = ["English", "Claude (still learning)", "Sarcasm"]
         self.current_focus = "Building projects & breaking things (then fixing them or trying to)"
-        self.fun_fact = "My code runs on optimism and print statements"
+        self.fun_fact = "My code runs on optimism and Redbull"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool together.")
@@ -33,10 +33,10 @@ me = BeginnerDeveloper()
 me.say_hi()
 ```
 
-- 🌱 Currently learning: Python fundamentals, Git, and how not to push to main
-- 🎯 2026 Goals: Contribute to open source, build real-world projects, finally understand decorators
+- 🌱 Currently learning: Python fundamentals, Git, Vibe Coding and how not to push to main
+- 🎯 2026 Goals: Contribute to open source, build real-world projects, finally understand the hype around Vibe Coding
 - 💼 Open to: Entry-level opportunities, internships, collaborations, and mentorship
-- ⚡ Fun fact: I debug with confidence (even when I have no idea what I'm doing)
+- ⚡ Fun fact: I debug with confidence (even when I have no idea what I'm doing 😎)
 
 ---
 
@@ -48,7 +48,7 @@ me.say_hi()
 </br>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,notion,obsidian,md,pycharm,py,html,css,js,debian,stackoverflow,linkedin" />
+    <img src="https://skillicons.dev/icons?i=linux,apple,notion,obsidian,md,pycharm,py,html,css,js,debian,stackoverflow,linkedin,replit&perline=5" />
     <!--
     <img src="https://skillicons.dev/icons?i=py,html,css,js,arduino,raspberrypi,arch,astro,bash,debian,ai" />
     You can find a list of icon here: https://github.com/tandpfun/skill-icons#readme
@@ -93,21 +93,6 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-### 🔹 [Band-Name-Generator](https://github.com/Th3-Beast/BeginnerProjects)
-**Description:** A basic project to reinforce the concepts of Print(), Input() and Variables. Combining user inputs together and outputting the result. 
-- **Tech Stack:** Python, PyCharm
-- **Status:** ✅ Completed
-
-### 🔹 [Rock-Paper-Scissors](https://github.com/Th3-Beast/BeginnerProjects)
-**Description:** A more involved project to reinforce the concepts of User-Input, Variables and Logic using `if/elif/else`. Creating something fun, challenging and using ASCII art to make it more appealing. 
-- **Tech Stack:** Python, PyCharm
-- **Status:** ✅ Completed
-
-### 🔹 [Simple-Password-Generator](https://github.com/Th3-Beast/BeginnerProjects)
-**Description:** A simple password generator that takes 3 inputs from the user, amount of characters, amount of numbers and the amount of symbols that the user would like in the password. There is also a recommendation on the ideal password for proper security.  
-- **Tech Stack:** Python, PyCharm
-- **Status:** ✅ Completed
-
 ### 🔹 [Comming-Soon](https://github.com/Th3-Beast)
 <!--
 
@@ -126,20 +111,20 @@ me.say_hi()
 [▓▓░░░░░░░░░░░░░░░░░] 10% Complete
 
 Current Level: Beginner with Ambition
-Achievement Unlocked: Password Generator ✓
-Next Milestone: First Pull Request to Open Source
-Boss Battle: Understanding Decorators (preparing...)
+Achievement Unlocked: 
+Next Milestone: 
+Boss Battle: 
 ```
 
 ---
 
 ## 💡 What I'm Up To
-
+<!--
 - 📚 Working through: [Course/Book you're studying]
 - 🔨 Building: [Current project or challenge]
 - 📖 Reading: [Tech book or documentation]
 - 🤝 Looking for: Collaboration opportunities and mentorship
-
+-->
 ---
 
 ## 🤝 Let's Connect!
@@ -148,7 +133,7 @@ I'm always excited to connect with fellow developers, learners, and potential em
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaughan-testa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:th3dr4gon.sl4yer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
